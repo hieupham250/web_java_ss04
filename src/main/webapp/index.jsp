@@ -22,6 +22,6 @@
 <br/>
 <a href="bai8">Bài 8</a>
 <br/>
-<a href="bai9">Bài 9</a>
+<a href="seats">Bài 9</a>
 </body>
 </html>
